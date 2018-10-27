@@ -49,7 +49,7 @@
 //                 if(users.length){
 //                     const user = users[0];
 //                     req.session.user = user;
-//                     res.redirect('/cool-couches');
+//                     res.redirect('/profile');
 //                 } else {
 //                     return req.app.get('db').create_user({
 //                         auth0_id: userData.sub,

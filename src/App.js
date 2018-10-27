@@ -5,7 +5,7 @@ import React, { Component } from 'react';
 // import Port from './components/Post/Post';
 import routes from './route';
 import Nav from './components/Nav/Nav';
-
+import './reset.css';
 import './App.css';
 
 class App extends Component {
